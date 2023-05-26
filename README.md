@@ -1,1 +1,1 @@
-# odin-recipes
+The current project will entail making a basic recipe website by using HTML. The project will show knowledge of creating text, lists, hyperlinks, and images inside a webpage.
