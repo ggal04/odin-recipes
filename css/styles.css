@@ -1,0 +1,30 @@
+* {
+    background-color: #24292e;
+    color: #fafbdc;
+}
+
+.title{
+    background-color: #2b3137;
+    text-align: center;
+    font-size: 75px;
+    font-family: 'Courier New', monospace;
+}
+
+.reclist{
+    font-size: 30px;
+    text-align: center;
+}
+
+.inglist{
+    font-size: 25px;
+}
+
+.subtext{
+    font-size: 35px;
+}
+
+.mainimg {
+    height: auto;
+    width: 800px;
+
+}
